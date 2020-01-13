@@ -57,7 +57,7 @@ class MainActivity : AppCompatActivity(), TrackingStateObserver.OnTrackingStateC
     }
 
     companion object {
-        val HT_KEY = "uvIAA8xJANxUxDgINOX62-LINLuLeymS6JbGieJ9PegAPITcr9fgUpROpfSMdL9kv-qFjl17NeAuBHse8Qu9sw"
+        val HT_KEY = "paste-your-key-here"
         val TAG = "MainActivity"
     }
 }
